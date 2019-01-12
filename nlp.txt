@@ -1,0 +1,70 @@
+Whoever you are and whatever you do, NLP can to help you do it more effectively. NLP is used in many fields, including business, sports, art, health, marketing, education and politics, in fact, anywhere that involves human endeavour.
+NLP is widely used in business. It has found its way discretely into many training courses on business,management, sales, presentations, planning and team building, (often without being credited by name.)
+
+For the Human Resources professional, NLP provides powerful tools for conflict resolution and management development.
+
+NLP is often used in sales and marketing.  Some of this has got the discipline a bad name (though this shows how effective it is!)  At NLP School we insist on an ethical approach.  We also want you to be aware of tricks that politicians, media and advertisers may play on you!  If you want to avoid having your buttons pushed without your consent, you need to know how the process works.
+
+NLP is an ideal tool to either enhance or change your career.
+
+In personal development, NLP has a wide range of uses, especially when teamed up with a coaching approach. You can use it to address personal issues or to help others do the same.  NLP allows people to examine unhelpful thought, behaviour and emotional patterns and to then change them.  It has tools to manage the effect of distressing memories and mental images.
+
+NLP can be of huge help in setting health targets and sticking to them.
+
+Many coaching training programmes borrow from NLP or use it as a base. Our courses have attracted many coaches seeking to deepen their understanding of their profession. Our Director, Robbie Steinhouse’s third book is called ‘How to Coach with NLP‘.
+
+NLP is also used in sport, to help sports people model excellence, mentally rehearse achievement and get ‘in the zone’.
+
+
+
+5 Applications of Natural Language Processing for Businesses in 2018
+
+	Mankind has reached its peak of evolution and discovery. The consumer today looks for luxury and sophistication in the product and how it could benefit him or her in their daily life. To sustain and stay at the top of the market and give absolute comfort to the consumers, business organisations are using different strategies and technologies. Natural Language Processing or NLP is one such technology penetrating deeply and widely in the market, irrespective of the industry and domains. It is extensively applied in businesses today and it is the buzzword in every engineer’s life. In short, NLP is everywhere.
+
+So what is NLP? In simple words, NLP or Natural Language Processing, also known as computational linguistics, is a blend of language, machine learning & artificial intelligence (AI). It builds a technology which allows us to interact with machines as in normal human to human conversation. ‘Hey Siri’ on your iPhone or ‘Ok Google’ on your Android mobile are the products of Natural Language Processing. A few years ago, we used to type keywords into Google search to get effective results. Today, you have the comfort of vocally seeking your help with this technology assistant. One of the most pragmatic tech trends, Natural Language Processing, has multiple applications in business today.
+
+Some of the most important applications of Natural Language Processing for businesses in 2018:
+#1. Sentiment Analysis
+Mostly used on the web and social media monitoring, NLP is a great tool to comprehend and analyse the responses to the business messages published on social media platforms. It helps to analyse the attitude and emotional state of the writer (person commenting/engaging with posts). This application is also known as opinion mining. It is implemented through a combination of Natural Language Processing and statistics by assigning values to the text (positive, negative or neutral) and in turn making efforts to identify the underlying mood of the context (happy, sad, angry, annoyed, etc.)
+
+This application of NLP helps business organisations gain insights on consumers and do a competitive comparison and make necessary adjustments in business strategies, whenever required. Such data is also useful in designing a better customer experience and enhancing the product. Furthermore, sentiment analysis or emotion exploration is a great way to know about brand perception.
+
+#2. Chatbots
+Chatbots are the solution for consumer frustration regarding customer care call assistance. They provide modern-day virtual assistance for simple problems of the customer and offload low-priority, high turnover tasks which require no skill. Intelligent Chatbots are going to offer personalised assistance to the customer in the near future. Many Industry analysts also predict that Chatbots are an emergent trend which will offer real-time solutions for simple customer service problems. They are unquestionably gaining a lot of trust and popularity from the consumer as well as engineers.
+
+#3. Customer Service
+Ensuring customer loyalty by keeping them content and happy is the supreme challenge and responsibility of every business organisation. NLP has aided in multiple functions of customer service and served as an excellent tool to gain insight into audience tastes, preferences and perceptions. Speech separation where the AI will identify each voice to the corresponding speaker and answer each of the callers separately. Excellent text to speech systems could even aid the blind. For example, a call recording of the customer can give insight into whether the customer is happy or sad, what are their needs and future requirements.
+
+NLP could aid in translating the caller’s speech into a text message which could be easily analysed by the engineer. To sum up, this would be a great way to get to know the pulse of your audience.
+
+#4. Managing the Advertisement Funnel 
+What does your consumer need? Where is your consumer looking for his or her needs? Natural Language Processing is a great source for intelligent targeting and placement of advertisements in the right place at the right time and for the right audience. Reaching out to the right patron of your product is the ultimate goal for any business. NLP matches the right keywords in the text and helps to hit the right customers. Keyword matching is the simple task of NLP yet highly remunerative for businesses.
+
+#5. Market Intelligence
+Business markets are influenced and impacted by market knowledge and information exchange between various organisations, stakeholders, governments and regulatory bodies. It is vital to stay up to date with the industry trends and changing standards. NLP is a useful technology to track and monitor the market intelligence reports for and extract the necessary information for businesses to build new strategies. Widely used in financial marketing, NLP gives exhaustive insights into employment changes and status of the market, tender delays, and closings, or extracting information from large repositories.
+
+These are some of the few applications of Natural Language Processing which will be witnessed by business organisations in the time to come. There are other applications as well, such as reputation monitoring, neural machine translation, hiring tools and management, regulatory compliance, data visualisation, biometrics, robotics, process automation etc. NLP is the key to the quest for general artificial intelligence since language is a key indicator of intelligence in our society.
+
+The Prospect
+
+The system behind the NLP concept is statistical in nature. For this concept to move from Natural Language Processing (NLP) to Natural Language Understanding (NLU) where the consumer can get to see and experience a human emotional connect with the machines, is the future prospect to work towards. Over the last decade, the information technology industry has taken its leap of faith and dug deep into the various aspects of the Natural Language Processing.
+
+Business organisations have found, tested and executed most favorable applications of NLP to advance the progress of Business Intelligence. Yet, the technology needs lots of data and processes in place to understand, analyse and respond to the needs of the human mind.
+
+
+Machine Translation
+As the amount of information available online is growing, the need to access it becomes increasingly important and the value of natural language processing applications becomes clear. Machine translation helps us conquer language barriers that we often encounter by translating technical manuals, support content or catalogs at a significantly reduced cost. The challenge with machine translation technologies is not in translating words, but in understanding the meaning of sentences to provide a true translation.
+
+Automatic summarization
+Information overload is a real problem when we need to access a specific, important piece of information from a huge knowledge base. Automatic summarization is relevant not only for summarizing the meaning of documents and information, but also for understand the emotional meanings inside the information, such as in collecting data from social media. Automatic summarization is especially relevant when used to provide an overview of a news item or blog posts, while avoiding redundancy from multiple sources and maximizing the diversity of content obtained.
+
+Sentiment analysis
+The goal of sentiment analysis is to identify sentiment among several posts or even in the same post where emotion is not always explicitly expressed. Companies use natural language processing applications, such as sentiment analysis, to identify opinons and sentiment online to help them understand what customers think about their products and services (i.e., “I love the new iPhone” and, a few lines later “But sometimes it doesn’t work well” where the person is still talking about the iPhone) and overall indicators of their reputation. Beyond determining simple polarity, sentiment analysis understands sentiment in context to help you better understand what’s behind an expressed opinion, which can be extremely relevant in undersanding and driving purchasing decisions.
+
+Text classification
+Text classification makes it possible to assign predefined categories to a document and organize it to help you find the information you need or simplify some activities. For example, an application of text categorization is spam filtering in email.
+
+NLP Will be Able to Understand Human Emotions
+As the NLP technology evolves over generations, computers will extend their present capabilities from processing to understanding human language in a holistic way. Until now, NLP is restricted to infer a limited range of human emotions including the feelings of joy or anger. Eventually, NLP will be programmed to understand more complex elements of the human language such as humour, sarcasm, satire, irony and cynicism.
+
+In the exciting times yet to come, NLP will be integrated with other technologies such as facial and gesture recognition to drive business revenues and make them more agile and efficient.
